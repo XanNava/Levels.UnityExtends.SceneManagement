@@ -1,0 +1,21 @@
+{
+    "name": "Levels.UnityExtends.SceneManagement",
+    "rootNamespace": "Levels.UnityExtends.SceneManagement",
+    "references": [
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:c65e9fee52dacdb4d918676dbd4f0362",
+        "GUID:0844a4e4f7ef9bd40bb793c51e707eaa",
+        "GUID:c8b0d96954c9dc84394cae1decacf74a",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:76d64574cc2232f468d859d538f6e089"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
